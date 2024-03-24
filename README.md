@@ -23,9 +23,9 @@ Consumer complaint: The primary source of data set used for this analysis is the
 ### Data Cleaning and preparation
 
 #### Power Query
-The dataset was uploaded in power BI for cleaning and transformed in power query before loading to Power BI for Visualization and analysis. The dataset contains 62253 rows;12 columns before cleaning and 62253 rows;12 columns after cleaning .
+The dataset was uploaded in power BI for cleaning and transformed in power query before loading to Power BI for Visualization and analysis. The dataset contains 999+ rows;12 columns before cleaning and  rows;12 columns after cleaning .The data was found to be clean enough to perform the expected analysis.
 
-![raw table survey 1](https://github.com/Oluwafunmilayo-Analyst/A-Survey-of-Data-professionals-/assets/164716134/a8682e4d-1126-4ef1-ba65-72d76174385a)
+
 
 Q1-Which title best fits your current role? column was cleaned to effectively visualize the data. The spilt tool was used to separate rows with the option of others filled by the Data professionals and the column with the option filled is delete. The same process was applied to column Q5,Q4 and Q11. Q3 show a range of salary filled and a new column was create for the average for better visaulization.
 
