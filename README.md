@@ -1,6 +1,5 @@
 # Financial-Consumer-Complaint
-## Table of Content
--
+
 ## Introduction:
 Consumer complaints on financial products, services for Bank of America from 2017 to 2023, including the dates the complaint was submitted to the CFPB and then sent to the company, the product and issue mentioned in the complaint, and the company's response.This data was Analyzed using Power BI to derive insight to answer crucial questions and for  informed decision making.
 
@@ -33,17 +32,14 @@ Q1-Which title best fits your current role? column was cleaned to effectively vi
 
 #### Dashboard/ Visualization
 The dashboard below gives a visual representation to the solution of the problem statement. 
-![powerbi project 1](https://github.com/Oluwafunmilayo-Analyst/A-Survey-of-Data-professionals-/assets/164716134/959ba9ed-970f-477f-a6d8-af7a68f8faf2)
+
+![financial2](https://github.com/Oluwafunmilayo-Analyst/Financial-Consumer-Complaint/assets/164716134/816b0e07-1851-4d0b-9429-7979a630e206)
 
 #### Analysis
 
-1. Python, R and other programming language are the favourite for Data Scientist in this order.
-2. For majority of the data professionals that participated in the survey it was Neither easy nor difficult to break in to data profession
-3. Data Scientists were paid the  highest average salary.
-4. Over half on the scale of 1-10 was happy with work/life balance and less than half was happy with their salary.
-
+1. 
 #### Limitation.
 The salary per geographical location vary and this is because of their standard of living because of this a firm conculsion cannot be made.
 
 #### Reference
-1. Alex The Analyst
+1. Maven Analyst
